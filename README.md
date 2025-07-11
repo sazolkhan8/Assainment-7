@@ -1,2 +1,2 @@
 # Assainment-7
-[Visit](https://github.com/sazolkhan8/Assainment-7)
+[Visit](https://sazolkhan8.github.io/Assainment-7/)
